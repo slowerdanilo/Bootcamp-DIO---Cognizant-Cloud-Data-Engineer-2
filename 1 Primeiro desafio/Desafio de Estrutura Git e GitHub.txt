@@ -1,0 +1,3 @@
+Realizado criação do repositório para facilitar estrutura de estudos.
+
+Realizado clone, add, commit e push
